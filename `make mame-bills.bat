@@ -9,4 +9,7 @@ cd R:\compile\mame\bills
 
 make -j5 REGENIE=1 TOOLS=0 SYMBOLS=0
 
+
+
+
 pause
